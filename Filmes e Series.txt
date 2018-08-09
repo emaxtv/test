@@ -1,0 +1,181 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E" tvg-logo="http://img.starbr.in/1516237628_80181d5b8b9772628829109e39dfca130fb57a9d.jpg" group-title="iMaxTV | Filmes & Séries",A&E
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/1120.ts
+#EXTINF:-1 tvg-id="A&E" tvg-name="A&E HD" tvg-logo="http://img.starbr.in/1516237628_80181d5b8b9772628829109e39dfca130fb57a9d.jpg" group-title="iMaxTV | Filmes & Séries",A&E HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/5078.ts
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC" tvg-logo="http://img.starbr.in/1516238758_3dc4eee5c20558e96d3e5026ad519589b8814465.jpg" group-title="iMaxTV | Filmes & Séries",AMC
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/9609.ts
+#EXTINF:-1 tvg-id="AMC" tvg-name="AMC HD" tvg-logo="http://img.starbr.in/1516238758_3dc4eee5c20558e96d3e5026ad519589b8814465.jpg" group-title="iMaxTV | Filmes & Séries",AMC HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/15406.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN" tvg-logo="http://img.starbr.in/1516239217_221b3727109dedf11b31af301492faf24acd6261.png" group-title="iMaxTV | Filmes & Séries",AXN
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/1712.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN FULL HD" tvg-logo="http://img.starbr.in/1516239217_221b3727109dedf11b31af301492faf24acd6261.png" group-title="iMaxTV | Filmes & Séries",AXN FULL HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/5033.ts
+#EXTINF:-1 tvg-id="AXN" tvg-name="AXN HD" tvg-logo="http://img.starbr.in/1516239217_221b3727109dedf11b31af301492faf24acd6261.png" group-title="iMaxTV | Filmes & Séries",AXN HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/1114.ts
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="CANAL BRASIL" tvg-logo="http://img.starbr.in/1516240555_dbbd559b23da3a175b033a244737a817a67c2001.png" group-title="iMaxTV | Filmes & Séries",CANAL BRASIL
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/1098.ts
+#EXTINF:-1 tvg-id="Canal Brasil" tvg-name="CANAL BRASIL HD" tvg-logo="http://img.starbr.in/1516240555_dbbd559b23da3a175b033a244737a817a67c2001.png" group-title="iMaxTV | Filmes & Séries",CANAL BRASIL HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/5079.ts
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX" tvg-logo="http://img.starbr.in/1516241687_223a375f300af8b0ce8a2e33f44e5c9836739a89.png" group-title="iMaxTV | Filmes & Séries",CINEMAX
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/2483.ts
+#EXTINF:-1 tvg-id="Cinemax" tvg-name="CINEMAX HD" tvg-logo="http://img.starbr.in/1516241687_223a375f300af8b0ce8a2e33f44e5c9836739a89.png" group-title="iMaxTV | Filmes & Séries",CINEMAX HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/5080.ts
+#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA" tvg-logo="http://img.starbr.in/1516303969_17c52198c2fa4d3728a28d35df541d8e500a889b.png" group-title="iMaxTV | Filmes & Séries",CURTA
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/2485.ts
+#EXTINF:-1 tvg-id="Curta!" tvg-name="CURTA HD" tvg-logo="http://img.starbr.in/1516303969_17c52198c2fa4d3728a28d35df541d8e500a889b.png" group-title="iMaxTV | Filmes & Séries",CURTA HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/20802.ts
+#EXTINF:-1 tvg-id="Fox" tvg-name="FOX" tvg-logo="http://img.starbr.in/1516307423_7efd73b9872dd3181c2f5a3391b192a65ff7241b.jpg" group-title="iMaxTV | Filmes & Séries",FOX
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/1329.ts
+#EXTINF:-1 tvg-id="Fox" tvg-name="FOX FULL HD" tvg-logo="http://img.starbr.in/1516307423_7efd73b9872dd3181c2f5a3391b192a65ff7241b.jpg" group-title="iMaxTV | Filmes & Séries",FOX FULL HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/18020.ts
+#EXTINF:-1 tvg-id="Fox" tvg-name="FOX HD" tvg-logo="http://img.starbr.in/1516307423_7efd73b9872dd3181c2f5a3391b192a65ff7241b.jpg" group-title="iMaxTV | Filmes & Séries",FOX HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/1047.ts
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="FOX LIFE" tvg-logo="http://img.starbr.in/1516307532_1480374d0207eff2609baebc726b8d3dc9614b6f.png" group-title="iMaxTV | Filmes & Séries",FOX LIFE
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/1038.ts
+#EXTINF:-1 tvg-id="FoxLife" tvg-name="FOX LIFE HD" tvg-logo="http://img.starbr.in/1516307532_1480374d0207eff2609baebc726b8d3dc9614b6f.png" group-title="iMaxTV | Filmes & Séries",FOX LIFE HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/1037.ts
+#EXTINF:-1 tvg-id="Fox Premium 1" tvg-name="FOX PREMIUM 1" tvg-logo="http://img.starbr.in/1516307631_6b3ce654ae31075d91809448b199d3604fa33880.png" group-title="iMaxTV | Filmes & Séries",FOX PREMIUM 1
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/20815.ts
+#EXTINF:-1 tvg-id="Fox Premium 1" tvg-name="FOX PREMIUM 1 HD" tvg-logo="http://img.starbr.in/1516307631_6b3ce654ae31075d91809448b199d3604fa33880.png" group-title="iMaxTV | Filmes & Séries",FOX PREMIUM 1 HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/2464.ts
+#EXTINF:-1 tvg-id="Fox Premium 2" tvg-name="FOX PREMIUM 2" tvg-logo="http://img.starbr.in/1516307739_4de824502ee2ab7fc740f3d8e959b278a68e2be4.png" group-title="iMaxTV | Filmes & Séries",FOX PREMIUM 2
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/20816.ts
+#EXTINF:-1 tvg-id="Fox Premium 2" tvg-name="FOX PREMIUM 2 HD" tvg-logo="http://img.starbr.in/1516307739_4de824502ee2ab7fc740f3d8e959b278a68e2be4.png" group-title="iMaxTV | Filmes & Séries",FOX PREMIUM 2 HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/2465.ts
+#EXTINF:-1 tvg-id="FX" tvg-name="FX" tvg-logo="http://img.starbr.in/1516308094_9b4156603dcb6ff24f1d22277f244b3eed9816db.png" group-title="iMaxTV | Filmes & Séries",FX
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/1028.ts
+#EXTINF:-1 tvg-id="FX" tvg-name="FX HD" tvg-logo="http://img.starbr.in/1516308094_9b4156603dcb6ff24f1d22277f244b3eed9816db.png" group-title="iMaxTV | Filmes & Séries",FX HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/2386.ts
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO" tvg-logo="http://img.starbr.in/1516310963_93dd95b2bb0ed437164a949521c4c39a2315839d.png" group-title="iMaxTV | Filmes & Séries",HBO
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/1020.ts
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2" tvg-logo="http://img.starbr.in/1516311085_daf8e87ee066625b204c7ab0c72f4fd93495b3eb.png" group-title="iMaxTV | Filmes & Séries",HBO 2
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/2489.ts
+#EXTINF:-1 tvg-id="HBO 2" tvg-name="HBO 2 HD" tvg-logo="http://img.starbr.in/1516311085_daf8e87ee066625b204c7ab0c72f4fd93495b3eb.png" group-title="iMaxTV | Filmes & Séries",HBO 2 HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/1017.ts
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY" tvg-logo="http://img.starbr.in/1516311196_c901e94fbc94819c91616c75905a41d6af11970c.png" group-title="iMaxTV | Filmes & Séries",HBO FAMILY
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/1016.ts
+#EXTINF:-1 tvg-id="HBO FAMILY" tvg-name="HBO FAMILY HD" tvg-logo="http://img.starbr.in/1516311196_c901e94fbc94819c91616c75905a41d6af11970c.png" group-title="iMaxTV | Filmes & Séries",HBO FAMILY HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/2392.ts
+#EXTINF:-1 tvg-id="HBO" tvg-name="HBO HD" tvg-logo="http://img.starbr.in/1516310963_93dd95b2bb0ed437164a949521c4c39a2315839d.png" group-title="iMaxTV | Filmes & Séries",HBO HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/1209.ts
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS" tvg-logo="http://img.starbr.in/1516311316_72fe3dc94524fffb92702a67f9780dd8d20ab761.png" group-title="iMaxTV | Filmes & Séries",HBO PLUS
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/1014.ts
+#EXTINF:-1 tvg-id="HBO PLUS E" tvg-name="HBO PLUS E" tvg-logo="http://img.starbr.in/1516311467_5fa5e712f15bfb41aac89be2071ba8f69b97a539.png" group-title="iMaxTV | Filmes & Séries",HBO PLUS E
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/2487.ts
+#EXTINF:-1 tvg-id="HBO PLUS E" tvg-name="HBO PLUS E HD" tvg-logo="http://img.starbr.in/1516311467_5fa5e712f15bfb41aac89be2071ba8f69b97a539.png" group-title="iMaxTV | Filmes & Séries",HBO PLUS E HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/20817.ts
+#EXTINF:-1 tvg-id="HBO PLUS" tvg-name="HBO PLUS HD" tvg-logo="http://img.starbr.in/1516311316_72fe3dc94524fffb92702a67f9780dd8d20ab761.png" group-title="iMaxTV | Filmes & Séries",HBO PLUS HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/2467.ts
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE" tvg-logo="http://img.starbr.in/1516311574_cf89ef886267b71b946bc40c6c85bc5c9b2d2080.png" group-title="iMaxTV | Filmes & Séries",HBO SIGNATURE
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/2488.ts
+#EXTINF:-1 tvg-id="HBO SIGNATURE" tvg-name="HBO SIGNATURE HD" tvg-logo="http://img.starbr.in/1516311574_cf89ef886267b71b946bc40c6c85bc5c9b2d2080.png" group-title="iMaxTV | Filmes & Séries",HBO SIGNATURE HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/1013.ts
+#EXTINF:-1 tvg-id="I.Sat" tvg-name="I-SAT" tvg-logo="http://img.starbr.in/1516311856_0a07415f1bd72f9c6e8dad71c5957859d222174d.jpg" group-title="iMaxTV | Filmes & Séries",I-SAT
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/2490.ts
+#EXTINF:-1 tvg-id="MAX" tvg-name="MAX" tvg-logo="http://img.starbr.in/1516312335_77be754915af921d9d5365b5bf9f7afc977ca40b.png" group-title="iMaxTV | Filmes & Séries",MAX
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/1007.ts
+#EXTINF:-1 tvg-id="MAX" tvg-name="MAX HD" tvg-logo="http://img.starbr.in/1516312335_77be754915af921d9d5365b5bf9f7afc977ca40b.png" group-title="iMaxTV | Filmes & Séries",MAX HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/5089.ts
+#EXTINF:-1 tvg-id="MAX PRIME" tvg-name="MAX PRIME" tvg-logo="http://img.starbr.in/1516312436_f3ba7da2150f909f2095a7bc644194a7420ab483.png" group-title="iMaxTV | Filmes & Séries",MAX PRIME
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/1006.ts
+#EXTINF:-1 tvg-id="MAX PRIME E" tvg-name="MAX PRIME E" tvg-logo="http://img.starbr.in/1516312436_f3ba7da2150f909f2095a7bc644194a7420ab483.png" group-title="iMaxTV | Filmes & Séries",MAX PRIME E
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/2493.ts
+#EXTINF:-1 tvg-id="MAX PRIME E" tvg-name="MAX PRIME E HD" tvg-logo="http://img.starbr.in/1516312436_f3ba7da2150f909f2095a7bc644194a7420ab483.png" group-title="iMaxTV | Filmes & Séries",MAX PRIME E HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/20818.ts
+#EXTINF:-1 tvg-id="MAX PRIME" tvg-name="MAX PRIME HD" tvg-logo="http://img.starbr.in/1516312436_f3ba7da2150f909f2095a7bc644194a7420ab483.png" group-title="iMaxTV | Filmes & Séries",MAX PRIME HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/5090.ts
+#EXTINF:-1 tvg-id="MAX UP" tvg-name="MAX UP" tvg-logo="http://img.starbr.in/1516312593_36e8b2da5547db4c5bdff448859cde890b79f518.png" group-title="iMaxTV | Filmes & Séries",MAX UP
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/1005.ts
+#EXTINF:-1 tvg-id="MAX UP" tvg-name="MAX UP HD" tvg-logo="http://img.starbr.in/1516312593_36e8b2da5547db4c5bdff448859cde890b79f518.png" group-title="iMaxTV | Filmes & Séries",MAX UP HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/5091.ts
+#EXTINF:-1 tvg-id="Megapix" tvg-name="MEGAPIX" tvg-logo="http://img.starbr.in/1516312673_6d1d76a391dc330a0250a95fb873c7313c9eacf2.png" group-title="iMaxTV | Filmes & Séries",MEGAPIX
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/1004.ts
+#EXTINF:-1 tvg-id="Megapix" tvg-name="MEGAPIX HD" tvg-logo="http://img.starbr.in/1516312673_6d1d76a391dc330a0250a95fb873c7313c9eacf2.png" group-title="iMaxTV | Filmes & Séries",MEGAPIX HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/2470.ts
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="PARAMOUNT CHANNEL" tvg-logo="http://img.starbr.in/1516320245_1bb5f2856804bc053a3adbc77a3744d87fd477cf.png" group-title="iMaxTV | Filmes & Séries",PARAMOUNT CHANNEL
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/980.ts
+#EXTINF:-1 tvg-id="Paramount Channel" tvg-name="PARAMOUNT CHANNEL HD" tvg-logo="http://img.starbr.in/1516320245_1bb5f2856804bc053a3adbc77a3744d87fd477cf.png" group-title="iMaxTV | Filmes & Séries",PARAMOUNT CHANNEL HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/2472.ts
+#EXTINF:-1 tvg-id="Sony" tvg-name="SONY" tvg-logo="http://img.starbr.in/1516325290_f4c6c1dbad3b599cf79b81d46858dc50ed08cfc8.png" group-title="iMaxTV | Filmes & Séries",SONY
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/1096.ts
+#EXTINF:-1 tvg-id="Sony" tvg-name="SONY HD" tvg-logo="http://img.starbr.in/1516325290_f4c6c1dbad3b599cf79b81d46858dc50ed08cfc8.png" group-title="iMaxTV | Filmes & Séries",SONY HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/2409.ts
+#EXTINF:-1 tvg-id="Space" tvg-name="SPACE" tvg-logo="http://img.starbr.in/1516325405_d2eac5d3e27f371e6d37a7a5ffe1067df0ad4309.png" group-title="iMaxTV | Filmes & Séries",SPACE
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/2501.ts
+#EXTINF:-1 tvg-id="Space" tvg-name="SPACE HD" tvg-logo="http://img.starbr.in/1516325405_d2eac5d3e27f371e6d37a7a5ffe1067df0ad4309.png" group-title="iMaxTV | Filmes & Séries",SPACE HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/1327.ts
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="STUDIO UNIVERSAL" tvg-logo="http://img.starbr.in/1516325912_5b84ceaa9a5a2872fb6d4b2b8d6d5c318c221277.png" group-title="iMaxTV | Filmes & Séries",STUDIO UNIVERSAL
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/2384.ts
+#EXTINF:-1 tvg-id="Studio Universal" tvg-name="STUDIO UNIVERSAL HD" tvg-logo="http://img.starbr.in/1516325912_5b84ceaa9a5a2872fb6d4b2b8d6d5c318c221277.png" group-title="iMaxTV | Filmes & Séries",STUDIO UNIVERSAL HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/5094.ts
+#EXTINF:-1 tvg-id="SUNDANCE" tvg-name="SUNDANCE" tvg-logo="http://img.starbr.in/1527042976_999ea2c4d99181623023e588926357d3bbfa7e71.png" group-title="iMaxTV | Filmes & Séries",SUNDANCE
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/20828.ts
+#EXTINF:-1 tvg-id="SUNDANCE" tvg-name="SUNDANCE HD" tvg-logo="http://img.starbr.in/1527042976_999ea2c4d99181623023e588926357d3bbfa7e71.png" group-title="iMaxTV | Filmes & Séries",SUNDANCE HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/20829.ts
+#EXTINF:-1 tvg-id="Syfy" tvg-name="SYFY" tvg-logo="http://img.starbr.in/1516326010_d70261bac1c7118a0ae0b1b5cb4d0382e43e48d0.png" group-title="iMaxTV | Filmes & Séries",SYFY
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/939.ts
+#EXTINF:-1 tvg-id="Syfy" tvg-name="SYFY HD" tvg-logo="http://img.starbr.in/1516326010_d70261bac1c7118a0ae0b1b5cb4d0382e43e48d0.png" group-title="iMaxTV | Filmes & Séries",SYFY HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/18087.ts
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS" tvg-logo="http://img.starbr.in/1516360523_39401f3fecceb9ab2cbd9a97fb72402523fb0825.jpg" group-title="iMaxTV | Filmes & Séries",TBS
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/937.ts
+#EXTINF:-1 tvg-id="TBS" tvg-name="TBS HD" tvg-logo="http://img.starbr.in/1516360523_39401f3fecceb9ab2cbd9a97fb72402523fb0825.jpg" group-title="iMaxTV | Filmes & Séries",TBS HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/2473.ts
+#EXTINF:-1 tvg-id="TC ACTION" tvg-name="TC ACTION" tvg-logo="http://img.starbr.in/1516360836_34e97214a21d80f45b12171e5e28ecde28afbaf3.png" group-title="iMaxTV | Filmes & Séries",TC ACTION
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/935.ts
+#EXTINF:-1 tvg-id="TC ACTION" tvg-name="TC ACTION FULL HD" tvg-logo="http://img.starbr.in/1516360836_34e97214a21d80f45b12171e5e28ecde28afbaf3.png" group-title="iMaxTV | Filmes & Séries",TC ACTION FULL HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/5069.ts
+#EXTINF:-1 tvg-id="TC ACTION" tvg-name="TC ACTION HD" tvg-logo="http://img.starbr.in/1516360836_34e97214a21d80f45b12171e5e28ecde28afbaf3.png" group-title="iMaxTV | Filmes & Séries",TC ACTION HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/936.ts
+#EXTINF:-1 tvg-id="TC CULT" tvg-name="TC CULT" tvg-logo="http://img.starbr.in/1516360963_3650ca65bf2d7dfd81b84e1d0490bbfec6102ea1.jpg" group-title="iMaxTV | Filmes & Séries",TC CULT
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/933.ts
+#EXTINF:-1 tvg-id="TC CULT" tvg-name="TC CULT FULL HD" tvg-logo="http://img.starbr.in/1516360963_3650ca65bf2d7dfd81b84e1d0490bbfec6102ea1.jpg" group-title="iMaxTV | Filmes & Séries",TC CULT FULL HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/18026.ts
+#EXTINF:-1 tvg-id="TC CULT" tvg-name="TC CULT HD" tvg-logo="http://img.starbr.in/1516360963_3650ca65bf2d7dfd81b84e1d0490bbfec6102ea1.jpg" group-title="iMaxTV | Filmes & Séries",TC CULT HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/5096.ts
+#EXTINF:-1 tvg-id="TC FUN" tvg-name="TC FUN" tvg-logo="http://img.starbr.in/1516361211_233589ebc98bb0fc54278e2a1cc626e1dda51a2a.png" group-title="iMaxTV | Filmes & Séries",TC FUN
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/931.ts
+#EXTINF:-1 tvg-id="TC FUN" tvg-name="TC FUN FULL HD" tvg-logo="http://img.starbr.in/1516361211_233589ebc98bb0fc54278e2a1cc626e1dda51a2a.png" group-title="iMaxTV | Filmes & Séries",TC FUN FULL HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/18027.ts
+#EXTINF:-1 tvg-id="TC FUN" tvg-name="TC FUN HD" tvg-logo="http://img.starbr.in/1516361211_233589ebc98bb0fc54278e2a1cc626e1dda51a2a.png" group-title="iMaxTV | Filmes & Séries",TC FUN HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/932.ts
+#EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="TC PIPOCA" tvg-logo="http://img.starbr.in/1516361300_46a9179784e301633ee84c04dcf0e707f362e096.png" group-title="iMaxTV | Filmes & Séries",TC PIPOCA
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/929.ts
+#EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="TC PIPOCA FULL HD" tvg-logo="http://img.starbr.in/1516361300_46a9179784e301633ee84c04dcf0e707f362e096.png" group-title="iMaxTV | Filmes & Séries",TC PIPOCA FULL HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/5070.ts
+#EXTINF:-1 tvg-id="TC PIPOCA" tvg-name="TC PIPOCA HD" tvg-logo="http://img.starbr.in/1516361300_46a9179784e301633ee84c04dcf0e707f362e096.png" group-title="iMaxTV | Filmes & Séries",TC PIPOCA HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/930.ts
+#EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="TC PREMIUM" tvg-logo="http://img.starbr.in/1516361393_00dbf22b51a4de3512bd744ef42116ffd04eb5d9.png" group-title="iMaxTV | Filmes & Séries",TC PREMIUM
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/2415.ts
+#EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="TC PREMIUM FULL HD" tvg-logo="http://img.starbr.in/1516361393_00dbf22b51a4de3512bd744ef42116ffd04eb5d9.png" group-title="iMaxTV | Filmes & Séries",TC PREMIUM FULL HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/5071.ts
+#EXTINF:-1 tvg-id="TC PREMIUM" tvg-name="TC PREMIUM HD" tvg-logo="http://img.starbr.in/1516361393_00dbf22b51a4de3512bd744ef42116ffd04eb5d9.png" group-title="iMaxTV | Filmes & Séries",TC PREMIUM HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/928.ts
+#EXTINF:-1 tvg-id="TC TOUCH" tvg-name="TC TOUCH" tvg-logo="http://img.starbr.in/1516361487_90fe88aa0de57cd024250a92af9ab73cc3747ee0.png" group-title="iMaxTV | Filmes & Séries",TC TOUCH
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/926.ts
+#EXTINF:-1 tvg-id="TC TOUCH" tvg-name="TC TOUCH HD" tvg-logo="http://img.starbr.in/1516361487_90fe88aa0de57cd024250a92af9ab73cc3747ee0.png" group-title="iMaxTV | Filmes & Séries",TC TOUCH HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/927.ts
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM" tvg-logo="http://img.starbr.in/1516361623_fad62047e94f5297e9ef74bf5c71ca29b66597f0.png" group-title="iMaxTV | Filmes & Séries",TCM
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/925.ts
+#EXTINF:-1 tvg-id="TCM" tvg-name="TCM HD" tvg-logo="http://img.starbr.in/1516361623_fad62047e94f5297e9ef74bf5c71ca29b66597f0.png" group-title="iMaxTV | Filmes & Séries",TCM HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/20830.ts
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT" tvg-logo="http://img.starbr.in/1516362096_b118548d389431cc50d80da692ee4861553c9b35.png" group-title="iMaxTV | Filmes & Séries",TNT
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/921.ts
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT FULL HD" tvg-logo="http://img.starbr.in/1516362096_b118548d389431cc50d80da692ee4861553c9b35.png" group-title="iMaxTV | Filmes & Séries",TNT FULL HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/5073.ts
+#EXTINF:-1 tvg-id="TNT" tvg-name="TNT HD" tvg-logo="http://img.starbr.in/1516362096_b118548d389431cc50d80da692ee4861553c9b35.png" group-title="iMaxTV | Filmes & Séries",TNT HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/2383.ts
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT SERIES" tvg-logo="http://img.starbr.in/1516362193_e8ec6624a7201b93a9fd10aefa96116bf612de69.png" group-title="iMaxTV | Filmes & Séries",TNT SERIES
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/1204.ts
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT SERIES FULL HD" tvg-logo="http://img.starbr.in/1516362193_e8ec6624a7201b93a9fd10aefa96116bf612de69.png" group-title="iMaxTV | Filmes & Séries",TNT SERIES FULL HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/5074.ts
+#EXTINF:-1 tvg-id="TNT Series" tvg-name="TNT SERIES HD" tvg-logo="http://img.starbr.in/1516362193_e8ec6624a7201b93a9fd10aefa96116bf612de69.png" group-title="iMaxTV | Filmes & Séries",TNT SERIES HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/2474.ts
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="UNIVERSAL CHANNEL" tvg-logo="http://img.starbr.in/1516364208_c170f20fb41b828eaba2cf07cd91f12e7929575c.png" group-title="iMaxTV | Filmes & Séries",UNIVERSAL CHANNEL
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/940.ts
+#EXTINF:-1 tvg-id="Universal Channel" tvg-name="UNIVERSAL CHANNEL HD" tvg-logo="http://img.starbr.in/1516364208_c170f20fb41b828eaba2cf07cd91f12e7929575c.png" group-title="iMaxTV | Filmes & Séries",UNIVERSAL CHANNEL HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/2475.ts
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="WARNER CHANNEL" tvg-logo="http://img.starbr.in/1516364542_ff6d2a4bbbd056c43cf668d2bf40fde0f6286e35.jpg" group-title="iMaxTV | Filmes & Séries",WARNER CHANNEL
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/896.ts
+#EXTINF:-1 tvg-id="Warner Channel" tvg-name="WARNER CHANNEL HD" tvg-logo="http://img.starbr.in/1516364542_ff6d2a4bbbd056c43cf668d2bf40fde0f6286e35.jpg" group-title="iMaxTV | Filmes & Séries",WARNER CHANNEL HD
+http://lista.digitalgroup.me:80/live/iMaxTV2018/imax/2478.ts
